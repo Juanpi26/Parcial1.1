@@ -1,0 +1,21 @@
+
+
+
+#portada h3, h4 {
+    text-align: center;
+}
+
+#portada .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#portada article {
+    margin: 15px;
+}
+
+#portada img {
+    width: 100%;
+    max-width: 280px;
+}
